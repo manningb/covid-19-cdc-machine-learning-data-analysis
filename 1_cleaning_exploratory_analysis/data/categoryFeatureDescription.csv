@@ -1,0 +1,9 @@
+,count,unique,top,freq
+current_status,10000,2,Laboratory-confirmed case,9315
+sex,10000,4,Female,5234
+age_group,10000,10,20 - 29 Years,1921
+race_ethnicity_combined,10000,9,Unknown,4039
+hosp_yn,10000,5,No,5181
+icu_yn,10000,4,Missing,7618
+death_yn,10000,2,No,9637
+medcond_yn,10000,4,Missing,7448
